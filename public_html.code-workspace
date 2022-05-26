@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Applications/XAMPP/xamppfiles/htdocs/inventory_project2/public_html"
+		},
+		{
+			"path": "../../../Desktop/CV_template/Web-Develoeper-Portfolio-master"
+		},
+		{
+			"path": "../../../Desktop/CV_template/drive-download-20221215T185958Z-001"
+		},
+		{
+			"path": "../../../Downloads/sunilpasupuleti.github.io-master"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "public_html"
+	}
+}
